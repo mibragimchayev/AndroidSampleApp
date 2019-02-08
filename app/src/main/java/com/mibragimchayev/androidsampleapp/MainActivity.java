@@ -1,4 +1,4 @@
-package com.appsflyer.androidsampleapp;
+package com.mibragimchayev.androidsampleapp;
 
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
@@ -13,9 +13,7 @@ import com.appsflyer.*;
 import java.util.HashMap;
 import java.util.Map;
 
-
 public class MainActivity extends AppCompatActivity {
-
 
     final Handler handler = new Handler();
 

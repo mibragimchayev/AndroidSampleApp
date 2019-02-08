@@ -1,4 +1,4 @@
-package com.appsflyer.androidsampleapp;
+package com.mibragimchayev.androidsampleapp;
 
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
